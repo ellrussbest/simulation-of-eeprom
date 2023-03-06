@@ -1,0 +1,13 @@
+project(simulation)
+cmake_minimum_required(VERSION 3.5.1)
+
+## CREATE YOUR EXECUTABLE FILE HERE
+add_executable(
+  ${PROJECT_NAME}
+  main.cpp
+)
+
+set(CMAKE_EXECUTABLE_SUFFIX ".html")
+# set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "-s WASM=1 -s EXTRA_EXPORTED_RUNTIME_METHODS='[mac_addresses, serial_number]' -s EXPORTED_FUNCTIONS="['mac_addresses', 'serial_number']"")
+# set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "-s WASM=1 -s EXPORTED_FUNCTIONS="['mac_addresses', 'serial_number']" -s EXTRA_EXPORTED_RUNTIME_METHODS="['cwrap']"")
+set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "-s WASM=1 -s EXPORT_ALL=1 --bind -O3")

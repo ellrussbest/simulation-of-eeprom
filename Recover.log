@@ -1,0 +1,76 @@
+﻿Timestamp	Filename	Error	Message
+2023-03-02 15:38:08.155 +0100	mac_addresses.fmp12	0	*** Started consistency check of improperly closed file, total of 63 block(s) to check
+2023-03-02 15:38:08.156 +0100	mac_addresses.fmp12	8432	Page 7 marked free but not in free list
+2023-03-02 15:38:08.157 +0100	mac_addresses.fmp12	8432	Page 63 marked free but not in free list
+2023-03-02 15:38:08.158 +0100	mac_addresses.fmp12	0	Reset maximum block sequence number to 4746
+2023-03-02 15:38:08.160 +0100	mac_addresses.fmp12	0	*** Completed consistency check, checked 63 block(s)
+2023-03-02 15:40:09.823 +0100	mac_addresses.fmp12	0	*** Started consistency check of improperly closed file, total of 63 block(s) to check
+2023-03-02 15:40:09.824 +0100	mac_addresses.fmp12	8432	Page 7 marked free but not in free list
+2023-03-02 15:40:09.826 +0100	mac_addresses.fmp12	8432	Page 63 marked free but not in free list
+2023-03-02 15:40:09.826 +0100	mac_addresses.fmp12	0	Reset maximum block sequence number to 4746
+2023-03-02 15:40:09.827 +0100	mac_addresses.fmp12	0	*** Completed consistency check, checked 63 block(s)
+2023-03-02 15:46:13.743 +0100	mac_addresses.fmp12	0	*** Started consistency check of improperly closed file, total of 63 block(s) to check
+2023-03-02 15:46:13.744 +0100	mac_addresses.fmp12	8432	Page 7 marked free but not in free list
+2023-03-02 15:46:13.745 +0100	mac_addresses.fmp12	8432	Page 63 marked free but not in free list
+2023-03-02 15:46:13.745 +0100	mac_addresses.fmp12	0	Reset maximum block sequence number to 4746
+2023-03-02 15:46:13.746 +0100	mac_addresses.fmp12	0	*** Completed consistency check, checked 63 block(s)
+2023-03-02 15:48:10.982 +0100	mac_addresses.fmp12	0	*** Started consistency check of improperly closed file, total of 63 block(s) to check
+2023-03-02 15:48:10.983 +0100	mac_addresses.fmp12	8432	Page 7 marked free but not in free list
+2023-03-02 15:48:10.983 +0100	mac_addresses.fmp12	8432	Page 63 marked free but not in free list
+2023-03-02 15:48:10.984 +0100	mac_addresses.fmp12	0	Reset maximum block sequence number to 4746
+2023-03-02 15:48:10.984 +0100	mac_addresses.fmp12	0	*** Completed consistency check, checked 63 block(s)
+2023-03-02 15:50:25.865 +0100	mac_addresses.fmp12	0	*** Started consistency check of improperly closed file, total of 63 block(s) to check
+2023-03-02 15:50:25.866 +0100	mac_addresses.fmp12	8432	Page 7 marked free but not in free list
+2023-03-02 15:50:25.867 +0100	mac_addresses.fmp12	8432	Page 63 marked free but not in free list
+2023-03-02 15:50:25.868 +0100	mac_addresses.fmp12	0	Reset maximum block sequence number to 4746
+2023-03-02 15:50:25.869 +0100	mac_addresses.fmp12	0	*** Completed consistency check, checked 63 block(s)
+2023-03-02 15:51:18.843 +0100	mac_addresses.fmp12	0	*** Started consistency check of improperly closed file, total of 63 block(s) to check
+2023-03-02 15:51:18.844 +0100	mac_addresses.fmp12	8432	Page 7 marked free but not in free list
+2023-03-02 15:51:18.845 +0100	mac_addresses.fmp12	8432	Page 63 marked free but not in free list
+2023-03-02 15:51:18.845 +0100	mac_addresses.fmp12	0	Reset maximum block sequence number to 4746
+2023-03-02 15:51:18.846 +0100	mac_addresses.fmp12	0	*** Completed consistency check, checked 63 block(s)
+2023-03-02 16:24:23.137 +0100	mac_addresses.fmp12	0	*** Started consistency check of improperly closed file, total of 73 block(s) to check
+2023-03-02 16:24:23.138 +0100	mac_addresses.fmp12	8432	Page 7 marked free but not in free list
+2023-03-02 16:24:23.138 +0100	mac_addresses.fmp12	8432	Page 63 marked free but not in free list
+2023-03-02 16:24:23.138 +0100	mac_addresses.fmp12	8432	Page 64 marked free but not in free list
+2023-03-02 16:24:23.138 +0100	mac_addresses.fmp12	8432	Page 65 marked free but not in free list
+2023-03-02 16:24:23.138 +0100	mac_addresses.fmp12	8432	Page 66 marked free but not in free list
+2023-03-02 16:24:23.138 +0100	mac_addresses.fmp12	8432	Page 67 marked free but not in free list
+2023-03-02 16:24:23.139 +0100	mac_addresses.fmp12	8432	Page 68 marked free but not in free list
+2023-03-02 16:24:23.139 +0100	mac_addresses.fmp12	8432	Page 69 marked free but not in free list
+2023-03-02 16:24:23.140 +0100	mac_addresses.fmp12	8432	Page 70 marked free but not in free list
+2023-03-02 16:24:23.141 +0100	mac_addresses.fmp12	8432	Page 71 marked free but not in free list
+2023-03-02 16:24:23.142 +0100	mac_addresses.fmp12	8432	Page 72 marked free but not in free list
+2023-03-02 16:24:23.142 +0100	mac_addresses.fmp12	8432	Page 73 marked free but not in free list
+2023-03-02 16:24:23.143 +0100	mac_addresses.fmp12	0	Reset maximum block sequence number to 8479
+2023-03-02 16:24:23.144 +0100	mac_addresses.fmp12	0	*** Completed consistency check, checked 73 block(s)
+2023-03-02 16:26:24.329 +0100	mac_addresses.fmp12	0	*** Started consistency check of improperly closed file, total of 73 block(s) to check
+2023-03-02 16:26:24.331 +0100	mac_addresses.fmp12	8432	Page 7 marked free but not in free list
+2023-03-02 16:26:24.332 +0100	mac_addresses.fmp12	8432	Page 63 marked free but not in free list
+2023-03-02 16:26:24.332 +0100	mac_addresses.fmp12	8432	Page 64 marked free but not in free list
+2023-03-02 16:26:24.332 +0100	mac_addresses.fmp12	8432	Page 65 marked free but not in free list
+2023-03-02 16:26:24.332 +0100	mac_addresses.fmp12	8432	Page 66 marked free but not in free list
+2023-03-02 16:26:24.332 +0100	mac_addresses.fmp12	8432	Page 67 marked free but not in free list
+2023-03-02 16:26:24.332 +0100	mac_addresses.fmp12	8432	Page 68 marked free but not in free list
+2023-03-02 16:26:24.333 +0100	mac_addresses.fmp12	8432	Page 69 marked free but not in free list
+2023-03-02 16:26:24.334 +0100	mac_addresses.fmp12	8432	Page 70 marked free but not in free list
+2023-03-02 16:26:24.334 +0100	mac_addresses.fmp12	8432	Page 71 marked free but not in free list
+2023-03-02 16:26:24.335 +0100	mac_addresses.fmp12	8432	Page 72 marked free but not in free list
+2023-03-02 16:26:24.335 +0100	mac_addresses.fmp12	8432	Page 73 marked free but not in free list
+2023-03-02 16:26:24.336 +0100	mac_addresses.fmp12	0	Reset maximum block sequence number to 8488
+2023-03-02 16:26:24.338 +0100	mac_addresses.fmp12	0	*** Completed consistency check, checked 73 block(s)
+2023-03-02 16:28:52.299 +0100	mac_addresses.fmp12	0	*** Started consistency check of improperly closed file, total of 73 block(s) to check
+2023-03-02 16:28:52.300 +0100	mac_addresses.fmp12	8432	Page 7 marked free but not in free list
+2023-03-02 16:28:52.300 +0100	mac_addresses.fmp12	8432	Page 63 marked free but not in free list
+2023-03-02 16:28:52.300 +0100	mac_addresses.fmp12	8432	Page 64 marked free but not in free list
+2023-03-02 16:28:52.300 +0100	mac_addresses.fmp12	8432	Page 65 marked free but not in free list
+2023-03-02 16:28:52.301 +0100	mac_addresses.fmp12	8432	Page 66 marked free but not in free list
+2023-03-02 16:28:52.301 +0100	mac_addresses.fmp12	8432	Page 67 marked free but not in free list
+2023-03-02 16:28:52.302 +0100	mac_addresses.fmp12	8432	Page 68 marked free but not in free list
+2023-03-02 16:28:52.302 +0100	mac_addresses.fmp12	8432	Page 69 marked free but not in free list
+2023-03-02 16:28:52.303 +0100	mac_addresses.fmp12	8432	Page 70 marked free but not in free list
+2023-03-02 16:28:52.304 +0100	mac_addresses.fmp12	8432	Page 71 marked free but not in free list
+2023-03-02 16:28:52.304 +0100	mac_addresses.fmp12	8432	Page 72 marked free but not in free list
+2023-03-02 16:28:52.305 +0100	mac_addresses.fmp12	8432	Page 73 marked free but not in free list
+2023-03-02 16:28:52.305 +0100	mac_addresses.fmp12	0	Reset maximum block sequence number to 8583
+2023-03-02 16:28:52.306 +0100	mac_addresses.fmp12	0	*** Completed consistency check, checked 73 block(s)

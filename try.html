@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  
+  <script>
+    function generate_mac_address(count) {
+      let num = Number(count);
+
+      let hex = num.toString(16);
+      hex = hex.toString();
+
+      switch (hex.length) {
+        case 1:
+          hex = "D87E6F00000" + hex;
+          break;
+        case 2:
+          hex = "D87E6F0000" + hex;
+          break;
+        case 3:
+          hex = "D87E6F000" + hex;
+          break;
+        case 4:
+          hex = "D87E6F00" + hex;
+          break;
+        case 5:
+          hex = "D87E6F0" + hex;
+          break;
+        default:
+          hex = "D87E6F" + hex;
+      }
+
+      hex = hex.match(/.{1,2}/g);
+      let mac_address = hex.join(":").toUpperCase();
+
+      FileMaker.PerformScript("set mac address", mac_address);
+    }
+  </script>
+</body>
+</html>

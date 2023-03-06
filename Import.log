@@ -1,0 +1,8 @@
+﻿Timestamp	Filename	Error	Message
+2023-03-02 11:50:25.506 +0100	eeprom_filemaker.fmp12	0	Import of script steps from clipboard started
+2023-03-02 11:50:25.510 +0100	set variables	0	script steps imported : 1
+2023-03-02 11:50:25.511 +0100	eeprom_filemaker.fmp12	0	Import completed
+2023-03-02 15:19:13.836 +0100	mac_addresses.fmp12	0	Import of script steps from clipboard started
+2023-03-02 15:19:13.839 +0100	key_mac_addresses	3703	Unknown Error: <unknown>.
+2023-03-02 15:19:13.840 +0100	key_mac_addresses	0	script steps imported : 4
+2023-03-02 15:19:13.841 +0100	mac_addresses.fmp12	0	Import completed

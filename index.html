@@ -1,0 +1,27 @@
+<html lang=en-us>
+
+    <head>
+        <meta charset=utf-8>
+        <meta content="text/html; charset=utf-8" http-equiv=Content-Type>
+    </head>
+
+    <body>
+        <script>
+            __javascript__
+        </script>
+        <script>
+           
+        Module.onRuntimeInitialized = _ => {
+        }
+        function set_variables(mac, serial) {
+            let string;
+            let _mac = Module.mac_address(mac)
+            let _serial = Module.serial_number(serial)
+            string = _mac + _serial
+            FileMaker.PerformScript("display string", string)
+            
+        }
+        </script>
+    </body>
+
+</html>

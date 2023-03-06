@@ -1,0 +1,1 @@
+C:\Users\Rusell.Odhiambo\Desktop\Developments\emsdk\upstream\emscripten\em++.bat -s WASM=1 -s EXPORT_ALL=1 --bind -O3 @CMakeFiles\simulation.dir\objects1.rsp -o simulation.html 
